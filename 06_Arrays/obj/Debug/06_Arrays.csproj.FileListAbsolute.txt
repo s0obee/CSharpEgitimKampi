@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\CSharpEgitimKampı\06_Arrays\bin\Debug\06_Arrays.exe.config
+C:\Users\ASUS\Desktop\CSharpEgitimKampı\06_Arrays\bin\Debug\06_Arrays.exe
+C:\Users\ASUS\Desktop\CSharpEgitimKampı\06_Arrays\bin\Debug\06_Arrays.pdb
+C:\Users\ASUS\Desktop\CSharpEgitimKampı\06_Arrays\obj\Debug\06_Arrays.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\CSharpEgitimKampı\06_Arrays\obj\Debug\06_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\CSharpEgitimKampı\06_Arrays\obj\Debug\06_Arrays.exe
+C:\Users\ASUS\Desktop\CSharpEgitimKampı\06_Arrays\obj\Debug\06_Arrays.pdb
