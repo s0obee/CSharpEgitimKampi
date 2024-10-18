@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\CSharpEgitimKampı\05_LoopWithStars\bin\Debug\05_LoopWithStars.exe.config
+C:\Users\ASUS\Desktop\CSharpEgitimKampı\05_LoopWithStars\bin\Debug\05_LoopWithStars.exe
+C:\Users\ASUS\Desktop\CSharpEgitimKampı\05_LoopWithStars\bin\Debug\05_LoopWithStars.pdb
+C:\Users\ASUS\Desktop\CSharpEgitimKampı\05_LoopWithStars\obj\Debug\05_LoopWithStars.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\CSharpEgitimKampı\05_LoopWithStars\obj\Debug\05_LoopWithStars.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\CSharpEgitimKampı\05_LoopWithStars\obj\Debug\05_LoopWithStars.exe
+C:\Users\ASUS\Desktop\CSharpEgitimKampı\05_LoopWithStars\obj\Debug\05_LoopWithStars.pdb
