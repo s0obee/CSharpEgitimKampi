@@ -31,6 +31,6 @@ Metodları nasıl tanımlayıp çağıracağımızı, parametre geçişlerini ve
 ### 📍9. Database Projects
 Database işlemlerine ğiriş yaptığımız bölümdü. Connection İşlemlerini gördük.
 
-### 📍8. Database Crud
+### 📍10. Database Crud
 Database Crud (Create, Read, Update, Delete) işlemlerini işledik.
 
