@@ -29,7 +29,7 @@ Diziler ve koleksiyonlar üzerinde dolaşmak için `foreach` döngülerini kulla
 Metodları nasıl tanımlayıp çağıracağımızı, parametre geçişlerini ve metodların program içindeki tekrar kullanımını inceledik. Ayrıca metodların kodu modüler hale getirdiğini öğrendik.
 
 ### 📍9. Database Projects
-Database işlemlerine ğiriş yaptığımız bölümdü. Connection İşlemlerini gördük.
+Database işlemlerine giriş yaptığımız bölümdü. Connection İşlemlerini gördük.
 
 ### 📍10. Database Crud
 Database Crud (Create, Read, Update, Delete) işlemlerini işledik.
